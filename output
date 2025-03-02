@@ -1,0 +1,29 @@
+--------------
+Generator
+---------------
+a=0, b=1
+sum=0, carry=0
+---------------
+--------------
+Driver
+---------------
+a=0, b=1
+sum=0, carry=0
+---------------
+--------------
+Monitor
+---------------
+a=0, b=1
+sum=1, carry=0
+---------------
+Result is as Expected
+--------------
+Scoreboard
+---------------
+a=0, b=1
+sum=1, carry=0
+---------------
+$finish at simulation time                    3
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 3 ns
+CPU Time:      0.320 seconds;       Data structure size:   0.0Mb
